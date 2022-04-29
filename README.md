@@ -48,12 +48,12 @@ Here is an overview of project. </br>
 git clone https://github.com/LiseRochat/MyScoreBoard/
 ```
 2. Open file with you text editor 
-3. Create a bdd with name **connection** in your phpmyadmin
+3. Create a bdd with name **scoreboard** in your phpmyadmin
 4. Import sql file in bdd
 5. Initialize bdd variables 
 6. Run :
  ```
-  localhost/Registration-Login
+  localhost/MyScoreBoard
  ```
 <p align="right">(<a href="#top">back to top</a>)</p>
 
