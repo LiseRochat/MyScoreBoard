@@ -1,8 +1,8 @@
 <div id="top"></div>
 
 <div align="center">
-  <h1> WebSite PHP MySQL </h1>
-  <p>A dynamic website</p>
+  <h1> My Score Board </h1>
+  <p>Platform that allows you to manage matches and scores in board game games.</p>
 </div>
 
 ***
@@ -19,7 +19,7 @@
 ***
 
 ### General Info
-A dynamic website that will allow users to contribute by sharing cooking recipes
+The platform is free to access, it allows you to add players by their pseudonym and their e-mail and add games to the list of board games on the one hand; and create parties around a game and a list of players on the other hand.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ***
@@ -45,7 +45,7 @@ Here is an overview of project. </br>
 
 1. Clone the project
 ```
-git clone https://github.com/LiseRochat/Website-PHP-MySQL/
+git clone https://github.com/LiseRochat/MyScoreBoard/
 ```
 2. Open file with you text editor 
 3. Create a bdd with name **connection** in your phpmyadmin
@@ -75,7 +75,7 @@ Don't forget to give the project a star! Thanks again!
 
 ### Contact 
 Rochat Lise - liserochat@live.fr </br>
-Project Link: [https://github.com/LiseRochat/Website-PHP-MySQL/](https://github.com/LiseRochat/Website-PHP-MySQL/)
+Project Link: [https://github.com/LiseRochat/MyScoreBoard/](https://github.com/LiseRochat/MyScoreBoard/)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
